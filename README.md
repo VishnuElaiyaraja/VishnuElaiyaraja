@@ -15,6 +15,10 @@
 
 - ⚡ Fun fact **I Told My Computer I Needed a Break, and Now It Keeps Sending Me Beach Wallpapers!**
 
+- 🔐 Who Am I?
+-     Hi 👋, I'm Vishnu Elaiyaraja! 🎓 Welcome to Vishnu Elaiyaraja GitHub Profile Page ! 🚀
+On this channel, Vishnu Elaiyaraja brings you everything you need to elevate your life whether it's making money 💰, boosting personal growth 🌱, developing skills 🛠️, or reaching your career goals 🎯. We cover job search strategies 🧑‍💼, freelancing tips 💼, digital marketing 📈, coding 💻, and communication mastery 🗣️ all in one place.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
