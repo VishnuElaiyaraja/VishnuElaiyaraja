@@ -42,6 +42,9 @@ On this channel, Vishnu Elaiyaraja brings you everything you need to elevate you
         <td>
             <a href="https://www.youtube.com/c/vishnuelaiyaraja7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vishnuelaiyaraja7"  width=50 height=50  /></a>
         </td>
+        <td>    
+         <a href="https://whatsapp.com/channel/0029VamQps8EAKWJP5HmVh0T" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="0029VamQps8EAKWJP5HmVh0T"  width=50 height=50  /></a>
+        </td>
     </tr>
     <tr>
         <th>Twitter</th>
@@ -49,5 +52,6 @@ On this channel, Vishnu Elaiyaraja brings you everything you need to elevate you
         <th>FaceBook</th>
         <th>Instagram</th>
         <th>YouTube</th>
+        <th>Whatsapp</th>
     </tr>
 </table>
