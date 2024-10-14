@@ -27,7 +27,7 @@ On this channel, Vishnu Elaiyaraja brings you everything you need to elevate you
 <table style="text-align: center;">
     <tr>
        <td>
-          <a href="https://www.youtube.com/c/vishnuelaiyaraja7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vishnuelaiyaraja7"  width=50 height=50  /></a>
+          <a href="https://www.youtube.com/@VishnuElaiyaraja7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vishnuelaiyaraja7"  width=50 height=50  /></a>
         </td>
         <td>
            <a href="https://instagram.com/vishnuelaiyaraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishnuelaiyaraja" width=60 height=60 /></a>
