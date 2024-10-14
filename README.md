@@ -26,32 +26,36 @@ On this channel, Vishnu Elaiyaraja brings you everything you need to elevate you
 </p>
 <table style="text-align: center;">
     <tr>
-        <td>
-            <a href="https://twitter.com/vishnuelaiyaraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishnuelaiyaraja" width=60 height=60 /></a>
-        </td>
-        <td>
-            <a href="https://linkedin.com/in/vishnuelaiyaraja7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnuelaiyaraja7" width=60 height=60 /></a>
-        </td>
-        <td>
-            
-<a href="https://fb.com/vishnuelaiyaraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishnuelaiyaraja" width=60 height=60 /></a>
+       <td>
+          <a href="https://www.youtube.com/c/vishnuelaiyaraja7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vishnuelaiyaraja7"  width=50 height=50  /></a>
         </td>
         <td>
            <a href="https://instagram.com/vishnuelaiyaraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishnuelaiyaraja" width=60 height=60 /></a>
         </td>
+        <td>            
+           <a href="https://fb.com/vishnuelaiyaraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishnuelaiyaraja" width=60 height=60 /></a>
+        </td>        
         <td>
-            <a href="https://www.youtube.com/c/vishnuelaiyaraja7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vishnuelaiyaraja7"  width=50 height=50  /></a>
+            <a href="https://linkedin.com/in/vishnuelaiyaraja7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnuelaiyaraja7" width=60 height=60 /></a>
+        </td>        
+        <td>
+            <a href="https://twitter.com/vishnuelaiyaraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishnuelaiyaraja" width=60 height=60 /></a>
         </td>
         <td>    
          <a href="https://whatsapp.com/channel/0029VamQps8EAKWJP5HmVh0T" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="0029VamQps8EAKWJP5HmVh0T"  width=50 height=50  /></a>
         </td>
+        <td>    
+         <a href="https://t.me/VishnuElaiyaraja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/telegram.svg" alt="VishnuElaiyaraja" width="50" height="50" />
+</a>
+        </td>
     </tr>
     <tr>
-        <th>Twitter</th>
-        <th>LinkedIn</th>
-        <th>FaceBook</th>
-        <th>Instagram</th>
         <th>YouTube</th>
+        <th>Instagram</th>
+        <th>FaceBook</th>
+        <th>Linkedin</th>
+        <th>Twitter</th>
         <th>Whatsapp</th>
+        <th>Telegram</th>
     </tr>
 </table>
