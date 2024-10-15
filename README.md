@@ -72,6 +72,9 @@ On this channel, Vishnu Elaiyaraja brings you everything you need to elevate you
                 width=50 height=50 />
         </td>
         <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+        </td>
+        <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
                 width=50 height=50 />
         </td>
@@ -83,6 +86,7 @@ On this channel, Vishnu Elaiyaraja brings you everything you need to elevate you
     <tr>
         <th>Javascript</th>
         <th>Python</th>
+        <th>Java</th>
         <th>Php</th>
         <th>  C  </th>
     </tr>
@@ -172,9 +176,17 @@ On this channel, Vishnu Elaiyaraja brings you everything you need to elevate you
          <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width=50 height=50/>
          </td>
+        <td>
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
+        </td>
+        <td>
+          <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/>
+        </td>
     </tr>
     <tr>
         <th>Git</th>
         <th>Netlify</th>
+        <th>Linux</th>
+        <th>Bash</th>
     </tr>
 </table>
