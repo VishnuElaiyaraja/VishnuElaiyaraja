@@ -59,3 +59,122 @@ On this channel, Vishnu Elaiyaraja brings you everything you need to elevate you
         <th>Telegram</th>
     </tr>
 </table>
+
+### Programming Languages
+<table style="text-align: center;">
+    <tr>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+                width=50 height=50 />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+                width=50 height=50 />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+                width=50 height=50 />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+                width=50 height=50 />
+        </td>
+    </tr>
+    <tr>
+        <th>Javascript</th>
+        <th>Python</th>
+        <th>Php</th>
+        <th>  C  </th>
+    </tr>
+</table>
+
+### Front-End Development
+<table style="text-align: center;">
+    <tr>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+                width=50 height=50 />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+                width=50 height=50 />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+                width=50 height=50 />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width=50 height=50 />
+        </td>
+    </tr>
+    <tr>
+        <th>Html</th>
+        <th>Css</th>
+        <th>Javascript</th>
+        <th>Bootstrap</th>
+    </tr>
+</table>
+
+### Back-End Development
+<table style="text-align: center;">
+    <tr>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+                width=50 height=50 />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="50" height="50" />
+        </td>
+        <td>
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width=50 height=50 />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+                width=50 height=50 />
+        </td>
+    </tr>
+    <tr>
+        <th>Nodejs</th>
+        <th>Socket.io</th>
+        <th>FastAPI</th>
+        <th>Php</th>
+    </tr>
+</table>
+
+
+
+### Database
+<table style="text-align: center;">
+    <tr>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=50 height=50 />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width=50 height=50 />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width=50 height=50 />
+        </td>
+    </tr>
+    <tr>
+        <th>MongoDB</th>
+        <th>MySQL</td>
+        <th>Firebase</th>
+    </tr>
+</table>
+
+### Others
+<table style="text-align: center;">
+    <tr>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=50 height=50 />
+        </td>
+         <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width=50 height=50/>
+         </td>
+    </tr>
+    <tr>
+        <th>Git</th>
+        <th>Netlify</th>
+    </tr>
+</table>
