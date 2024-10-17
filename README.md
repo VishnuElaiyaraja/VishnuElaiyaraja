@@ -36,7 +36,7 @@ On this channel, Vishnu Elaiyaraja brings you everything you need to elevate you
            <a href="https://fb.com/vishnuelaiyaraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishnuelaiyaraja" width=60 height=60 /></a>
         </td>        
         <td>
-            <a href="https://linkedin.com/in/vishnuelaiyaraja7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnuelaiyaraja7" width=60 height=60 /></a>
+            <a href="https://linkedin.com/in/vishnuelaiyaraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnuelaiyaraja7" width=60 height=60 /></a>
         </td>        
         <td>
             <a href="https://twitter.com/vishnuelaiyaraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishnuelaiyaraja" width=60 height=60 /></a>
