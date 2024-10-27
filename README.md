@@ -1,8 +1,11 @@
+<!DOCTYPE html>
 <html>
-    <head>
-    <meta name="google-site-verification" content="s6gY-Dnu5rwhFljUBzkx-96NbNCQMCJQGdzvW47grVY" />
-    </head>           
-</>html
+  <head>
+      <meta name="google-site-verification" content="s6gY-Dnu5rwhFljUBzkx-96NbNCQMCJQGdzvW47grVY" />
+  </head>
+  <body>
+  </body>
+</html>
 <img src="./Web development.gif" align="right" width=300>
 
 <h1 align="center">Hi 👋, I'm Vishnu Elaiyaraja</h1>
