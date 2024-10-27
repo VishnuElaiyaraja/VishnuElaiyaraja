@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-      <meta name="google-site-verification" content="s6gY-Dnu5rwhFljUBzkx-96NbNCQMCJQGdzvW47grVY" />
+    <meta name="google-site-verification" content="s6gY-Dnu5rwhFljUBzkx-96NbNCQMCJQGdzvW47grVY" />
   </head>
   <body>
   </body>
